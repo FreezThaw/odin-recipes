@@ -1,0 +1,22 @@
+.lasagna,
+.waffles,
+.roast {
+    font-size: 32px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.lasagna {
+    color: red;
+    background-color: yellow;
+}
+
+.waffles {
+    color: rgb(131, 101, 20);
+    background-color: rgb(243, 72, 60);
+}
+
+.roast {
+    color: blueviolet;
+    background-color: gold;
+}

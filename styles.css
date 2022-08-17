@@ -12,11 +12,36 @@
 }
 
 .waffles {
-    color: rgb(131, 101, 20);
-    background-color: rgb(243, 72, 60);
+    color: white;
+    background-color: brown;
 }
 
 .roast {
     color: blueviolet;
     background-color: gold;
+}
+
+.pictures {
+    width: 250px;
+    height: auto;
+}
+
+button {
+    background-color: orange;
+    font-size: 28px;
+    border-color: red;
+    border-width: 5px;
+}
+
+.mainHeader {
+    font-size: 48px;
+    color: aqua;
+}
+
+body {
+    background-color: black;
+}
+
+.recipeBody {
+    background-color: white;
 }
